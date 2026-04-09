@@ -457,6 +457,7 @@ nav a:hover {
 
 .skills .titulo-secao {
     color: var(--ocre-claro);
+    text-align: center;
 }
 
 .skills-sub {
